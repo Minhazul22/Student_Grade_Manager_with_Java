@@ -1,6 +1,6 @@
 import java.util.Scanner; //scanner class import
 
-public class Main { //main class
+public class Grade { //main class
     public void main(String[] args){
     int numberOfStudents = 0, student_roll, passed = 0,failed = 0;
     float sum = 0, max= -99999, min = 99999; //took a very small and,
@@ -94,4 +94,3 @@ Scanner input = new Scanner(System.in); //create a scanner obj
 
 }
 
-////////////////
